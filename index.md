@@ -1,4 +1,4 @@
-# md-gh-vst
+# VST plugins
 <!-- copyright: RS -->
 
 test
