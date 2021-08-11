@@ -1,7 +1,7 @@
 # VST plugins
 <!-- copyright: ReSampled -->
 
-<img align='left' src="Effects/smartEQ3.png" />
+<p class='mb-0'><img align='left' src="Effects/smartEQ3.png" /></p>
 
 ### Sonible - smartEQ 3
 
