@@ -1,22 +1,10 @@
 # VST plugins
 <!-- copyright: ReSampled -->
 
+<img align='left' src="Effects/smartEQ3.png" />
 
-| Название        | Описание |
-| :-------------: |----------| 
-||ddfgdfgdfg dfg df g dfg dfgdfgdfg dfg df g dfg df gddfgdfgdfg dfg df g dfg dfgdfgdfg dfg df g dfg df g   ddfgdfgdfg dfg df g dfg dfgdfgdfg dfg df g dfg df g   ddfgdfgdfg dfg df g dfg dfgdfgdfg dfg df g dfg df g   ddfgdfgdfg dfg df g dfg dfgdfgdfg dfg df g dfg df g   ddfgdfgdfg dfg df g dfg dfgdfgdfg dfg df g dfg df g      dfg|
+### Sonible - smartEQ 3
 
+Одновременно обрабатывайте до шести треков за раз с помощью 24 фильтров, обработки M/S, интеллектуальных состояний и многого другого.
 
-<table>
-<tr>
-<td>
-**sdfsdfsdfsdfsdf**<br>![sdsf](Effects/SAUSAGE%20FATTENER.png)
-</td>
-<td>
-ddfgdfgdfg dfg df g dfg dfgdfgdfg dfg df g dfg df gddfgdfgdfg dfg df g dfg dfgdfgdfg dfg df g dfg df g   ddfgdfgdfg dfg df g dfg dfgdfgdfg dfg df g dfg df g   ddfgdfgdfg dfg df g dfg dfgdfgdfg dfg df g dfg df g   ddfgdfgdfg dfg df g dfg dfgdfgdfg dfg df g dfg df g   ddfgdfgdfg dfg df g dfg dfgdfgdfg dfg df g dfg df g      df
-</td>
-</tr>
-</table>
-
-
-<img align='left' src="Effects/smartEQ3.png" /> ddfgdfgdfg dfg df g dfg dfgdfgdfg dfg df g dfg df gddfgdfgdfg dfg df g dfg dfgdfgdfg dfg df g dfg df g   ddfgdfgdfg dfg df g dfg dfgdfgdfg dfg df g dfg df g   ddfgdfgdfg dfg df g dfg dfgdfgdfg dfg df g
+Последний интеллектуальный плагин Sonible на базе искусственного интеллекта: EQ 3, позиционируемый как «первый в мире многодорожечный эквалайзер». Он способен анализировать несколько звуковых дорожек для создания спектрального баланса и удаления нежелательных резонансов.
