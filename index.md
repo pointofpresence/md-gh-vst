@@ -1,9 +1,7 @@
 # VST plugins
 <!-- copyright: ReSampled -->
 
-<p class='mb-0'><img align='left' src="Effects/smartEQ3.png" /></p>
-
-[18:14:11] <p class='mb-0'><img align='left' src='Generators/ANA 2.png' /></p>
+<p class='mb-0'><img align='left' src='Generators/ANA 2.png' /></p>
 
 ### ANA 2
 
@@ -323,7 +321,7 @@
 
 <hr style='clear:both' />
 
-
+<p class='mb-0'><img align='left' src="Effects/smartEQ3.png" /></p>
 
 ### Sonible - smart:EQ 3
 
