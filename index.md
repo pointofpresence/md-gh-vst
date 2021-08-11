@@ -17,3 +17,6 @@ ddfgdfgdfg dfg df g dfg dfgdfgdfg dfg df g dfg df gddfgdfgdfg dfg df g dfg dfgdf
 </td>
 </tr>
 </table>
+
+
+<img align='left' src="Effects/smartEQ3.png" /> ddfgdfgdfg dfg df g dfg dfgdfgdfg dfg df g dfg df gddfgdfgdfg dfg df g dfg dfgdfgdfg dfg df g dfg df g   ddfgdfgdfg dfg df g dfg dfgdfgdfg dfg df g dfg df g   ddfgdfgdfg dfg df g dfg dfgdfgdfg dfg df g
