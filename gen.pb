@@ -19,7 +19,7 @@ For i = 0 To ArraySize(paths()) - 1
                   #CRLF$ +
                   #CRLF$ +
                   #CRLF$ +
-                  "-----" +
+                  "<hr style='clear:both' />" +
                   #CRLF$ +
                   #CRLF$
       EndIf      
@@ -31,9 +31,9 @@ Next
 
 Debug content
 ; IDE Options = PureBasic 5.72 (Windows - x64)
-; CursorPosition = 19
+; CursorPosition = 21
 ; EnableXP
 ; CompileSourceDirectory
-; EnableCompileCount = 9
+; EnableCompileCount = 10
 ; EnableBuildCount = 0
 ; EnableExeConstant
